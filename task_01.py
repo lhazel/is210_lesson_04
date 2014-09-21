@@ -3,3 +3,4 @@
 
 
 import data
+print data.SHAKESPEARE
